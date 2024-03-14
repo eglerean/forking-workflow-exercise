@@ -20,12 +20,13 @@
 - 1 tsp ginger, ground or juice
 - 0.5 tsp ground cloves
 - 2 eggs
+- 5 garlic cloves
 
 
 ## Instructions
 
 - Mix dry ingredients
-- Add pumpkin pulp
+- Add pumpkin pulp and garlic
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
