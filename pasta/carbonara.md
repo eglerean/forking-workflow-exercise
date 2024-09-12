@@ -3,7 +3,7 @@
 
 ## Ingredients
 
-- spagetti
+- spaghetti
 - guanciale
 - eggs
 - black pepper
